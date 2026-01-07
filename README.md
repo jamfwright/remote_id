@@ -58,7 +58,7 @@ By correlating data from multiple sources, you can make informed decisions about
 ### Install Dependencies
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/remote-asset-id.git
+git clone https://github.com/jamfwright/remote-asset-id.git
 cd remote-asset-id
 pip install -r requirements.txt
 ```
